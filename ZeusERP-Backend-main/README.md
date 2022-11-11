@@ -3,7 +3,7 @@
 Sadece Manufacturing ve Inventory modülleri tamamlanmıştır.
 
 # ZeusERP-WebUI
-[Click here](https://github.com/murat-atalik/ZeusERP-WebUI)
+[Click here](https://github.com/murathankaraca/Zeus-ERP-WebUI/tree/main/ZeusERP-WebUI-main)
 
 # Lisans Bilgileri
 
