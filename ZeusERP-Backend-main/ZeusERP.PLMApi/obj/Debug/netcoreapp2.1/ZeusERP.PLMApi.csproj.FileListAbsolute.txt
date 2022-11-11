@@ -1,0 +1,4 @@
+C:\Projects\ZeusERP\ZeusERP.Backend\ZeusERP.PLMApi\obj\Debug\netcoreapp2.1\ZeusERP.PLMApi.csprojAssemblyReference.cache
+C:\Projects\ZeusERP\ZeusERP.Backend\ZeusERP.PLMApi\obj\Debug\netcoreapp2.1\ZeusERP.PLMApi.AssemblyInfoInputs.cache
+C:\Projects\ZeusERP\ZeusERP.Backend\ZeusERP.PLMApi\obj\Debug\netcoreapp2.1\ZeusERP.PLMApi.AssemblyInfo.cs
+C:\Projects\ZeusERP\ZeusERP.Backend\ZeusERP.PLMApi\obj\Debug\netcoreapp2.1\ZeusERP.PLMApi.csproj.CoreCompileInputs.cache
